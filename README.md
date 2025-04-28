@@ -20,3 +20,9 @@ o	A message like "New Object Detected: [Object Name]" is displayed, notifying th
 4.	Real-Time Video Processing:
 o	The pipeline processes each video frame in real-time using a webcam.
 o	The FPS (Frames Per Second) rate is monitored to ensure that the detection system can run smoothly and efficiently. Although the FPS may vary depending on hardware (CPU vs. GPU), the system is designed to process and display results in real-time.
+
+# download the yolov3.weights, yolov3.cfg, and the coco.names file from this link:
+https://drive.google.com/drive/folders/177-gvbJ4WmD3TwQ14q1F1_0QKoBqlL5T?usp=sharing
+
+# output video
+https://drive.google.com/file/d/1v15u4pBEXRtNzUiiAqPhwq6cC87LNHGc/view?usp=drivesdk
